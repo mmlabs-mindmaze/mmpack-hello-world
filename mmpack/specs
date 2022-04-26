@@ -1,0 +1,6 @@
+name: hello-world-project
+version: 1.0.0
+maintainer: Gandalf <gandalf@the.grey>
+url: https://github.com/mmlabs-mindmaze/mmpack-hello-world
+description: >
+  This is a fake project named hello world.
